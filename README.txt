@@ -1,1 +1,1 @@
-Welcome to the Dollars!
+Welcome to Dollars GithubTraining!
