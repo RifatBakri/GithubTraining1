@@ -1,1 +1,1 @@
-Welcome to Dollars!
+Welcome to the Dollars!
